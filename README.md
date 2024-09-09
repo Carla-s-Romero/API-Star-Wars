@@ -1,4 +1,6 @@
-# 🌟 Star Wars API
+<img src="https://i.pinimg.com/originals/f2/f5/2c/f2f52cd8d2954663f91e915c39805298.gif" alt="Poster do Filme" width="100" align="left"> 
+
+#  Star Wars API 🌟
 
 Bem-vindo à **Star Wars API**, uma API que contém informações sobre os filmes da saga Star Wars. Este projeto permite que você acesse dados como título, descrição, diretor, ano de lançamento, imagem do filme e trailer de cada um dos filmes da série.
 
